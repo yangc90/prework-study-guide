@@ -16,8 +16,6 @@ You would need to make sure you have your SSH key assigned so that you can updat
 
 To use this Study Guide, open up Chrome DevTools by pressing Control+Shift+I to go through each section of notes for a specific topic. In each topic, it contains information on what I have learned throughout the prework course. 
 
-![alt text](assets/images/Screenshot 2023-03-28 183841.png)
-
 ## Credits
 
 N/A
